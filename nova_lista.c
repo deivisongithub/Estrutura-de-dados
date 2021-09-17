@@ -26,6 +26,7 @@ No* add_no_inicial(No* Lista,int dado){
         novo_no -> prox = Lista;
         Lista = novo_no;
     }
+    return Lista;
 }
 
 No* add_no_final(No *Lista,int dado){
