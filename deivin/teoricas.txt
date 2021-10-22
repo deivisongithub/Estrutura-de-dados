@@ -1,0 +1,6 @@
+1.
+a)
+Pilha pode ser definida como uma coleção ordenada de itens baseada no princípio LIFO, que é a sigla para para \textbf{last in Fist out}, ou seja, o último elemento a entrar na pilha é o primeiro a sair. Sendo assim, tanto a adição(push), quanto a remoção dos elementos(pop) acontecem na mesma extremidade, chamada de topo, e nada é alterado na extremidade oposta, chamada de base, e nem nos elementos entre elas. Dessa forma, esse tipo de estrutura de dados nos permite acesso a apenas um item, o último a ser adicionado. Então caso seja necessário acessar ou manipular de alguma forma  um elemento, que não esteja no topo, se deve desempilhar os elementos posteriores(pop).
+2.
+a)
+Fila pode ser definida como uma coleção ordenada de itens baseada no princípio FIFO, que é a sigla para para \textbf{Fist in Fist out}, ou seja, o primeiro elemento a entrar na fila é o primeiro a sair. Sendo assim, a adição de novos elementos é feita no fim da fila, chamado de Tail, e a remoção de um elemento é feita no início da fila, chamado de Head.
